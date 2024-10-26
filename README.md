@@ -1,10 +1,28 @@
 # Git
 
-- git branch
-- git branch (nome da branch)
-- git reset --hard 
-- git reflog
-- git checkout (nome da branch)
-- git pull
-- git merge
-- touch .gitignore
+- git branch:
+  Mostra a lista de branchs do seu
+  repositório, sua branch atual estará
+  destacada em verde e com "*"
+- git branch (nome da branch):
+  Cria uma branch com o nome
+  especificado
+- git reset --hard:
+  
+- git reflog:
+  
+- git checkout (nome da branch):
+  Usado para navegar entre as branchs
+- git pull:
+  Faz a atualização do seu repositório
+  local com o repositório do servidor
+  mais atualizado
+- git merge:
+  Une duas branchs, sejam qual for,
+  mesclando seus conteúdos 
+- touch .gitignore:
+  Cria um arquivo que pode ser usado
+  pelo bloco de notas, chamado de
+  gitignore, onde passa os
+  nomes dos arquivos que não ficarão
+  visíveis 
